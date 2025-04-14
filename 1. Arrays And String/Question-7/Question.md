@@ -7,14 +7,16 @@ Given an image represented by an NxN matrix, where each pixel in the image is an
 ## Example
 
 Input:
-```
+
+```plaintext
 1 2 3
 4 5 6
 7 8 9
 ```
 
 Output (after 90-degree clockwise rotation):
-```
+
+```plaintext
 7 4 1
 8 5 2
 9 6 3

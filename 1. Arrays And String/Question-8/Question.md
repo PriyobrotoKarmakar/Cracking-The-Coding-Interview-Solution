@@ -7,14 +7,16 @@ Write an algorithm such that if an element in an MxN matrix is 0, its entire row
 ## Example
 
 Input:
-```
+
+```py
 1 2 3
 4 0 6
 7 8 9
 ```
 
 Output:
-```
+
+```py
 1 0 3
 0 0 0
 7 0 9
